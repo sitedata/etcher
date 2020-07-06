@@ -53,7 +53,7 @@
     "d3": "^4.13.0",
     "debug": "^3.1.0",
     "electron-is-running-in-asar": "^1.0.0",
-    "electron-updater": "4.0.6",
+    "electron-updater": "4.3.2",
     "etcher-sdk": "^2.0.13",
     "flexboxgrid": "^6.3.0",
     "immutable": "^3.8.1",
